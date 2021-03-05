@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+body{color:#333333; background:#e3eef9; font:"Lucida Grande",Verdana,Lucida,Helvetica,Arial,sans-serif; font-size:12px; margin:0; padding:0; background:#ffb900;}
+div,span,table,tr,td,dl,dt,dd,ul,ol,li,form{margin:0; padding:0; overflow:hidden;}
+
+a{text-decoration:none;}
+a:hover{text-decoration:underline;}
+
+.color_red{color:red;}
+.color_white{color:#fff;}
+.color_black6{color:#666;}
+.color_lanse01{color:#004fba;}
+
+.payOne{width:822px; margin:20px auto; margin-top:60px; color:#666;}
+.payOne .po_title{width:230px; height:30px; line-height:30px; text-align:center; color:#fff; font-weight:bold; font-size:14px; background:url(/pay/pay2/image/pa_bg03.gif) no-repeat 0px 0px;}
+.payOne .po_body{width:790px; background:#fff; border:1px solid #ff7200; border-top:0; padding:15px;}
+.payOne .po_b1{width:819px; height:1px; background:#ff7200; border-right:1px solid #ff7200;}
+.payOne .po_b2{width:819px; height:1px; background:#fff; border-left:1px solid #ff7200; border-right:1px solid #ff7200;}
+
+.po_body .po_left{width:565px; margin-top:10px; float:left;}
+.po_left .po_tip{width:538px; line-height:25px; border:1px dotted #ffcc00; margin-bottom:10px; padding:5px 10px;}
+.po_left .po_box{width:560px;}
+.po_body table{width:100%; background:#d4d4d4; text-align:center; border-top:1px solid #D13333;}
+.po_body table th{background:#eee; color:#ff6600;}
+.po_body table tr{background:#fff; height:21px; line-height:21px;}
+.po_body table th,td{padding:3px 5px;}
+.po_body .po_btn{width:81px; height:21px; line-height:22px; cursor:pointer; text-align:center; color:#fff; background:url(/pay/pay2/image/pa_bg03.gif) no-repeat 0px -62px; margin:0 auto;}
+.po_body .po_btn01{width:94px; height:22px; line-height:22px; cursor:pointer; border:0; text-align:center; color:#fff; background:url(/pay/pay2/image/pa_bg03.gif) no-repeat 0px -35px; margin:0 auto;}
+.po_body .po_btn02{height:30px; line-height:30px; cursor:pointer; border:0; color:#666; text-align:center; margin:0 auto; border:1px solid #B0C4DE; background:#fefefe;font-size:16px;}
+	
+.po_body .po_selTitle{width:100%; height:30px; line-height:30px; font-weight:bold; font-size:14px;}
+.po_body .po_selTitle02{width:100%; height:30px; line-height:30px; font-size:14px;}
+.po_body .po_selComment{width:100%; height:30px; line-height:30px; margin:10px 0;}
+	
+.po_box fieldset{border:1px solid #FF9900; padding:6px; margin-bottom:10px;}
+.po_box fieldset legend{margin:0 auto; height:20px; line-height:20px; padding:0; color:#fff; font-weight:bold; margin-bottom:5px; border:1px solid #fff; padding:2px 15px; background:#ff6600;}
+.po_box ul{list-style:none;}
+.po_box ul.payList li{width:270px; height:20px; line-height:20px; float:left;}
+.po_box ul.payInfo li{width:540px; height:20%; line-height:20px; float:left;}
+
+.po_body .po_right{width:220px; margin-top:10px; float:right;}
+.po_right .po_orderSearch{width:220px; text-align:right; margin-bottom:10px;}
+.po_right .kefu_box01{width:220px; height:68px; margin-top:5px; background:url(/pay/pay2/image/pa_bg03.gif) no-repeat 0px -136px;}
+.po_right .kefu_box02{width:220px; padding-top:8px; background:url(/pay/pay2/image/pay2_02.gif) repeat-y scroll;}
+.po_right .kefu_box03{width:220px; height:20px; background:url(/pay/pay2/image/pa_bg03.gif) no-repeat 0px -233px;}
+.kefu_box02 .kefu_boxPP{width:184px; margin:2px 18px; border-bottom:1px dotted #cdcdcd;}
+.kefu_box02 .kefu_box_block{width:180px; padding-left:4px; height:25px; line-height:25px;}
+.kefu_box_block span{float:left;}
+.kefu_box_block img{margin-top:1px;}
+.kefu_box_block a{cursor:pointer;}
+.kefu_box_block span.span01{margin-left:5px;}
+.po_right .question_box{width:220px; margin-top:10px;}
+.question_box .q_box_t{width:220px; height:36px; background:url(/pay/pay2/image/pa_bg03.gif) no-repeat 0px -88px;}
+.question_box .q_box_m{width:200px; padding:0 10px; background:url(/pay/pay2/image/pay2_01.gif) repeat-y;}
+.question_box .q_box_b{width:220px; height:9px; background:url(/pay/pay2/image/pa_bg03.gif) no-repeat 0px -124px;}
+
+.q_box_m .q_box_m_ask{width:200px; line-height:20px; border-bottom:1px dotted #cfcfcf; margin-top:5px;}
+.q_box_m_ask .q_span01{width:12px; height:12px; margin-top:3px; background:url(/pay/pay2/image/pa_bg03.gif) no-repeat 0px -258px; float:left;}
+.q_box_m_ask .q_span02{width:180px; float:right; color:#ff7200;}
+.q_box_m .q_box_m_answer{width:200px; line-height:18px; margin-top:3px;}
+
+.c_btn_bg{
+ width:89px;
+ height:26px;
+ border:none;
+ background:url(/pay/pay/images/c_btn_bg.gif) no-repeat;
+}
+
+	
+
+.c_btn_bg1{
+ width:120px;
+ height:26px;
+ border:none;
+ background:url(/pay/pay/images/c_btn_bg1.gif) no-repeat;
+}
