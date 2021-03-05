@@ -70,7 +70,7 @@ input{
 .header{
 	width:100%;
 	height:37px;
-	background:url(/pay/pay/images/header_bg.gif) repeat-x;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/header_bg.gif) repeat-x;
 }
 
 .header_content{
@@ -79,7 +79,7 @@ input{
 	line-height:37px;
 	padding-left:50px;
 	margin:0 auto;
-	background:url(/pay/pay/images/header_content_bg.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/header_content_bg.gif) no-repeat;
 }
 
 .header_content ul li{
@@ -103,7 +103,7 @@ input{
 
 .header_content ul li a:hover{
 	text-decoration:none;
-	background:url(/pay/pay/images/s_sanjiao.gif) bottom center no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/s_sanjiao.gif) bottom center no-repeat;
 }
 
 .header_content ul .active a{
@@ -114,7 +114,7 @@ input{
 	color:#ffffff;
 	font-family:14px;
 	font-weight:bold;
-	background:url(/pay/pay/images/s_sanjiao.gif) bottom center no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/s_sanjiao.gif) bottom center no-repeat;
 }
 
 .header_content ul .a_img img{
@@ -134,14 +134,14 @@ input{
 .title{
 	width:1000px;
 	height:3px;
-	background:url(/pay/pay/images/title_bg.gif) repeat-x;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/title_bg.gif) repeat-x;
 	overflow:hidden;
 }
 
 .c_t{
 	height:30px;
 	line-height:30px;
-	background:url(/pay/pay/images/c_t_bg.gif) repeat-x;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/c_t_bg.gif) repeat-x;
 	padding-left:29px;
 
 }
@@ -156,12 +156,12 @@ input{
 	width:952px;
 	height:6px;
 	overflow:hidden;
-	background:url(/pay/pay/images/main_top_bg.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/main_top_bg.gif) no-repeat;
 }
 
 .main_middle{
 	width:952px;
-	background:url(/pay/pay/images/main_middle_bg.gif) repeat-y;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/main_middle_bg.gif) repeat-y;
 	padding-bottom:5px;
 }
 
@@ -184,7 +184,7 @@ input{
 	height:51px;
 	line-height:51px;
 	margin-bottom:7px;
-	background:url(/pay/pay/images/li_normal_bg.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/li_normal_bg.gif) no-repeat;
 	color:#b74402;
 	text-align:right;
 	padding-right:10px;
@@ -203,7 +203,7 @@ input{
 	height:53px;
 	line-height:53px;
 	margin-bottom:7px;
-	background:url(/pay/pay/images/li_active_bg.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/li_active_bg.gif) no-repeat;
 	color:#786f6f;
 	text-align:right;
 	padding-right:10px;
@@ -218,7 +218,7 @@ input{
 .mr_top{
 	width:750px;
 	height:4px;
-	background:url(/pay/pay/images/mr_top_bg.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/mr_top_bg.gif) no-repeat;
 	overflow:hidden;
 }
 
@@ -234,7 +234,7 @@ input{
 .mr_footer{
 	width:750px;
 	height:4px;
-	background:url(/pay/pay/images/mr_footer_bg.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/mr_footer_bg.gif) no-repeat;
 	overflow:hidden;
 }
 
@@ -243,7 +243,7 @@ input{
 .main_footer{
 	width:952px;
 	height:6px;
-	background:url(/pay/pay/images/main_footer_bg.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/main_footer_bg.gif) no-repeat;
 	overflow:hidden;
 }
 
@@ -257,7 +257,7 @@ input{
 
 .step1_middle{
 	width:668px;
-	background:url(/pay/pay/images/step_middle_bg.gif) repeat-y;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/step_middle_bg.gif) repeat-y;
 	color:#6c6c6c;
 	padding:7px 17px;
 }
@@ -300,7 +300,7 @@ input{
 .step1_btn{
 	width:71px;
 	height:24px;
-	background:url(/pay/pay/images/step1_btn.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/step1_btn.gif) no-repeat;
 	cursor:pointer;
 	border:none;
 }
@@ -424,7 +424,7 @@ input{
 	border:none;
 	width:144px;
 	height:42px;
-	background:url(/pay/pay/images/next_btn.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/next_btn.gif) no-repeat;
 	margin-right:10px;
 	cursor:pointer;
 	float:left;
@@ -434,7 +434,7 @@ input{
 	border:none;
 	width:144px;
 	height:42px;
-	background:url(/pay/pay/images/qd_btn.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/qd_btn.gif) no-repeat;
 	margin-right:10px;
 	cursor:pointer;
 	float:left;
@@ -462,7 +462,7 @@ input{
 	border:none;
 	width:144px;
 	height:42px;
-	background:url(/pay/pay/images/up_btn.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/up_btn.gif) no-repeat;
 	margin-right:10px;
 	cursor:pointer;
 	float:left;
@@ -567,7 +567,7 @@ input{
 .chaxun_top{
 	width:924px;
 	height:9px;
-	background:url(/pay/pay/images/chaxun_top_bg.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/chaxun_top_bg.gif) no-repeat;
 	overflow:hidden;
 }
 
@@ -598,7 +598,7 @@ input{
 .chaxun_btn{
 	width:71px;
 	height:24px;
-	background:url(/pay/pay/images/chaxun_btn.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/chaxun_btn.gif) no-repeat;
 	cursor:pointer;
 	border:none;
 	float:left;
@@ -608,7 +608,7 @@ input{
 .chaxun_footer{
 	width:924px;
 	height:9px;
-	background:url(/pay/pay/images/chaxun_footer_bg.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/chaxun_footer_bg.gif) no-repeat;
 	overflow:hidden;
 }
 
@@ -636,7 +636,7 @@ input{
 }
 
 .kefu_qq {
-	background:url(/pay/pay/images/kefu_qq_bg.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/kefu_qq_bg.gif) no-repeat;
     height: 27px;
     margin: 0 auto 3px;
     width: 191px;
@@ -690,7 +690,7 @@ input{
 	border:none;
 	width:71px;
 	height:24px;
-	background:url(/pay/pay/images/kefu_btn.gif) no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/kefu_btn.gif) no-repeat;
 	cursor: pointer;
 }
 
@@ -707,7 +707,7 @@ input{
  width:89px;
  height:26px;
  border:none;
- background:url(/pay/pay/images/c_btn_bg.gif) no-repeat;
+ background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/c_btn_bg.gif) no-repeat;
 }
 
 	
@@ -716,7 +716,7 @@ input{
  width:120px;
  height:26px;
  border:none;
- background:url(/pay/pay/images/c_btn_bg1.gif) no-repeat;
+ background:url(https://cdn.jsdelivr.net/gh/bnm19850926/CDNname/pay/pay/images/c_btn_bg1.gif) no-repeat;
 }
 
 
